@@ -1,0 +1,9 @@
+{
+  "name": "rocket-nps",
+  "version": "1.0.0",
+  "description": "A net promoter score api",
+  "main": "index.js",
+  "author": "Gabriel Henrique",
+  "license": "MIT",
+  "private": true
+}
