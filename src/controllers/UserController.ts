@@ -25,7 +25,7 @@ export class UserController {
 
         await usersRepository.save(user);
 
-        return res.send({ success: "User Created" })
+        return res.status(201).json(user)
     }
 }
 
