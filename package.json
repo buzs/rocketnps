@@ -1,5 +1,5 @@
 {
-  "name": "rocket-nps",
+  "name": "rocketnps",
   "version": "1.0.0",
   "description": "A net promoter score api",
   "main": "index.js",
